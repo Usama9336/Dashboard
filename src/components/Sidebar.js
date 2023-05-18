@@ -11,7 +11,7 @@ import file from "./assets/file.png"
 import multiple from "./assets/multiple.jpeg"
 export default function Sidebar() {
   return (
-    <div className=' hidden lg:flex lg:flex-col lg:h-screen lg:bg-[white] lg:ml-[2rem] lg:rounded-[1rem] lg:px-[0.7rem]  lg:shadow-2xl'>
+    <div className=' hidden xl:flex xl:flex-col xl:h-screen xl:bg-[white] xl:ml-[2rem] xl:rounded-[1rem] xl:px-[0.7rem]  xl:shadow-2xl'>
 
 <div className='mt-[2rem]'>
     <div className='flex gap-[8px] '>
