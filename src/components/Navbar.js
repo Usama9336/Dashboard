@@ -131,7 +131,7 @@ pt-[2rem] sm:pt-[4rem] md:w-[100%] h-[12rem] md:gap-[0.5rem] md:flex md:justify-
 </div>
 </div>
 </div>
-<div className=' relative lg:relative bg-[white] lg:bg-[white] my-[1rem] lg:mt-[2rem] rounded-[2rem]  lg:rounded-[2rem] shadow-xl  h-[24rem] sm:h-[26rem] w-[18rem]  sm:w-full lg:shadow-xl lg:w-[42%]'>
+<div className=' relative lg:relative bg-[white] lg:bg-[white] my-[1rem] lg:mt-[2rem] rounded-[2rem]  lg:rounded-[2rem] shadow-xl  h-[24rem] sm:h-[26rem] w-full lg:shadow-xl lg:w-[42%]'>
 <img src={solar} alt="" className='h-full w-full rounded-[2rem]' />
 <div className="absolute top-0 left-0 w-full h-full flex items-center pt-[-0.2rem] sm:pt-[2rem]">
     

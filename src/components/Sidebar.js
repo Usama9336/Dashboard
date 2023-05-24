@@ -13,13 +13,12 @@ export default function Sidebar() {
   
 const [open, setopen] = useState(true) 
 const menu=document.querySelector(".mobile-menu")
+console.log(menu);
 const btn=document.querySelector("button.mobile-button")
   const openfunc=()=>{
-    if(open)
-    {
       console.log(open)
-      menu.classList.toggle("hidden");
-  }
+      menu?.classList.toggle("hidden");
+      setopen(false)
 }
   return (
 <div className='relative'>
